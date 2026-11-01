@@ -78,7 +78,10 @@ Ett test pa YouTube, dar Dennis sparar resultatet sjalv for att iterera pa det.
 
 ## Ursprungliga anteckningar
 
-Orord ratext, behalls som karna. Tva block med unix-stampel.
+Orord ratext, behalls som karna. Allt ovanfor ar tolkning av det har.
+
+<details>
+<summary>Klicka for att se core:et</summary>
 
 ### 1793518225
 
@@ -135,3 +138,5 @@ inget mål, social buzz aa AFC24 tror jag, ja gör 37, ja - vi jobabr med perfek
 ```
 The best later would be do a test on youtube but me saving it to iterate on it
 ```
+
+</details>
