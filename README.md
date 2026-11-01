@@ -61,6 +61,10 @@ flowchart TD
 
 Den yttre loopen (B till G till B) har inget slutvillkor utover surret. Battle (F till K till M till F) ar en loop inuti loopen, aldrig en utgang. Irritation och abstraktion ar ett flode som loper bredvid, inte ett steg.
 
+## Nasta steg
+
+Ett test pa YouTube, dar Dennis sparar resultatet sjalv for att iterera pa det.
+
 ## Teknik
 
 - Agentens arbetsyta: agenten tanker i Kakoune-editorn ovanfor markdown-filen. Exakt det som sparas skickas ner till markdown.
@@ -125,4 +129,9 @@ agent and human
 ### 1793518485
 ```
 inget mål, social buzz aa AFC24 tror jag, ja gör 37, ja - vi jobabr med perfektion | lägg till agents think on kak editor above the markdown send exact saved words below to the markdown, goal is to make it intense do research look up and prompt possible question and answers - (eg. you can se suddenly both people's agents go into "battle" that just makes it more intense on who is smartest or having fun then when they have abstracted away bring back context and continue) --- inspiration was cybernetics - the may conferences 1946-1953 Cybernetics (irnoically perfection ) then we end here
+```
+
+### 1793518865
+```
+The best later would be do a test on youtube but me saving it to iterate on it
 ```
