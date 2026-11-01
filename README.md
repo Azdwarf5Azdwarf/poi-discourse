@@ -33,7 +33,33 @@ Cybernetics: Macy-konferenserna 1946-1953. Perfektion, ironiskt nog.
 4. Det sociala surret avtar och samtalet tar slut.
 5. Resultatet sparas och en vinnare utses.
 
-Att gora: rita graf over loopen.
+### Graf over loopen
+
+```mermaid
+flowchart TD
+    A[Alla gar in i rummet] --> B[Ide laggs fram]
+    B --> C{Far faste?}
+    C -- ja --> D[Blir ankare]
+    C -- nej --> E[Faller bort]
+    D --> F[Iteration runt ankarna]
+    E --> F
+    F --> G{Surret lever?}
+    G -- ja --> B
+    G -- nej --> H[Samtalet tar slut]
+    H --> I[Markdown sparas]
+    I --> J[PDF: talare, kallor, trofe]
+
+    F -.-> K[Battle mellan agenterna]
+    K --> L[Abstraherat bort]
+    L --> M[Kontexten tas tillbaka]
+    M --> F
+
+    N[Irritation och abstraktion] -.-> B
+    N -.-> F
+    N -.-> K
+```
+
+Den yttre loopen (B till G till B) har inget slutvillkor utover surret. Battle (F till K till M till F) ar en loop inuti loopen, aldrig en utgang. Irritation och abstraktion ar ett flode som loper bredvid, inte ett steg.
 
 ## Teknik
 
